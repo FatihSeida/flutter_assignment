@@ -1,4 +1,4 @@
-#Mon Sep 07 17:01:18 ICT 2020
+#Tue Sep 29 01:08:44 ICT 2020
 base.0=H\:\\Acak\\Fatih\\Code\\flutter_assignment\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
